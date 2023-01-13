@@ -85,3 +85,8 @@ gewerkt aan het containerproject van Cofano voor 12 weken
   <summary>Time Series Analysis</summary>
     <img src=https://github.com/Bram-tenCate/Minor-datascience/blob/main/time%20sereis%20anylisis.png /c>
 </details>
+
+
+##Research project 
+
+Task definition
