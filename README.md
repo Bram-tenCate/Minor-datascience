@@ -23,3 +23,49 @@ De kopjes gaan vooral over het deel lineair programmeren wat ik voor Cofano soft
 
 ![PLanning]()
 
+## Predicive analysis
+
+![Selecting a model]()
+
+![Configuring a model]()
+
+![training a model]()
+
+![Evaluating a model]()
+
+![Vizulizing the outcome of a model]()
+
+## Domain knowledge
+
+![Introduction in the subject field]()
+
+![Literatue research]()
+
+![Explanation of Terminoligy, jargon and definitions]
+
+## Data preprocessing
+
+![Data exploration]()
+
+![Data cleansing]()
+
+![Data preparation]
+
+![Data explanition]()
+
+![Data visualiztion]()
+
+
+## Communication
+
+![presentation]()
+
+![writing a paper]()
+
+## Reflection and communication
+
+![Own contribution]()
+
+![Own learning objectives]()
+
+![Group project as a whole]()
