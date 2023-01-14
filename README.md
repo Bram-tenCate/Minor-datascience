@@ -9,7 +9,7 @@ gewerkt aan het containerproject van Cofano voor 12 weken
 
 ![hier zijn al mijn datacamp certifcaten te vinden](https://github.com/Bram-tenCate/Minor-datascience/blob/main/datacamp.md)
 
-##Research project 
+## Research project 
 
 Hieronder zijn mijn bijdrages aan het Research project te vinden.
 
