@@ -41,7 +41,7 @@ De kopjes gaan vooral over het deel lineair programmeren wat ik voor Cofano soft
 
 ![Literatue research]()
 
-![Explanation of Terminoligy, jargon and definitions]
+![Explanation of Terminoligy, jargon and definitions]()
 
 ## Data preprocessing
 
