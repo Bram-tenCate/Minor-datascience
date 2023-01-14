@@ -74,7 +74,7 @@ hieronder zijn alle datacamp certificaten te vinden
 
 <details>
   <summary>Joining Data With Pandas</summary>
-    <img src=https://github.com/Bram-tenCate/Minor-datascience/blob/main/joining%20data%20with%20pandas.png/c>
+    <img src=https://github.com/Bram-tenCate/Minor-datascience/blob/main/joining%20data%20with%20pandas.png /c>
 </details>
 
 <details>
