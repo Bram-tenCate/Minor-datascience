@@ -11,8 +11,15 @@ gewerkt aan het containerproject van Cofano voor 12 weken
 
 ##Research project 
 
+Hieronder zijn mijn bijdrages aan het Research project te vinden.
+
+De kopjes gaan vooral over het deel lineair programmeren wat ik voor Cofano software solutions heb gedaan. 
+
 ![Task definition]()
+
 ![Evaluation]()
+
 ![Conclusion]()
+
 ![PLanning]()
 
