@@ -17,7 +17,7 @@ De kopjes gaan vooral over het deel lineair programmeren wat ik voor Cofano soft
 
 ![Task definition](https://github.com/Bram-tenCate/Minor-datascience/blob/main/task-definition.md)
 
-![Evaluation]()
+![Evaluation](https://github.com/Bram-tenCate/Minor-datascience/blob/main/Evaluation.md)
 
 ![Conclusion]()
 
