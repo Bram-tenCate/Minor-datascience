@@ -11,4 +11,8 @@ gewerkt aan het containerproject van Cofano voor 12 weken
 
 ##Research project 
 
-Task definition
+![Task definition]()
+![Evaluation]()
+![Conclusion]()
+![PLanning]()
+
