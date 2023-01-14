@@ -34,7 +34,7 @@ hieronder zijn alle datacamp certificaten te vinden
 
 <details>
   <summary>Linear Classifiers In Python</summary>
-    <img src=https://github.com/Bram-tenCate/Minor-datascience/blob/main/lineair%20classifiers%20in%20python.png/c>
+    <img src=https://github.com/Bram-tenCate/Minor-datascience/blob/main/lineair%20classifiers%20in%20python.png /c>
 </details>
 
 <details>
@@ -44,7 +44,7 @@ hieronder zijn alle datacamp certificaten te vinden
 
 <details>
   <summary>Model Validation In Python</summary>
-    <img src=https://github.com/Bram-tenCate/Minor-datascience/blob/main/model%20validation%20in%20python.png/c>
+    <img src=https://github.com/Bram-tenCate/Minor-datascience/blob/main/model%20validation%20in%20python.png /c>
 </details>
 
 <details>
@@ -54,7 +54,7 @@ hieronder zijn alle datacamp certificaten te vinden
 
 <details>
   <summary>Explatory Data Analysis In Python</summary>
-    <img src=https://github.com/Bram-tenCate/Minor-datascience/blob/main/explatory%20data%20analysis%20in%20python.png/c>
+    <img src=https://github.com/Bram-tenCate/Minor-datascience/blob/main/explatory%20data%20analysis%20in%20python.png /c>
 </details>
 
 <details>
@@ -64,7 +64,7 @@ hieronder zijn alle datacamp certificaten te vinden
 
 <details>
   <summary>Machine Learning For Time Series</summary>
-    <img src=https://github.com/Bram-tenCate/Minor-datascience/blob/main/machine%20learning%20for%20time%20series%20in%20python.png/c>
+    <img src=https://github.com/Bram-tenCate/Minor-datascience/blob/main/machine%20learning%20for%20time%20series%20in%20python.png /c>
 </details>
 
 <details>
