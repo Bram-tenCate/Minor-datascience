@@ -21,7 +21,7 @@ De kopjes gaan vooral over het deel lineair programmeren wat ik voor Cofano soft
 
 ![Conclusion]()
 
-![PLanning]()
+![PLanning](https://github.com/Bram-tenCate/Minor-datascience/blob/main/planning.md)
 
 ## Predicive analysis
 
