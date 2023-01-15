@@ -25,7 +25,7 @@ De kopjes gaan vooral over het deel lineair programmeren wat ik voor Cofano soft
 
 ## Predictive analysis
 
-![Selecting a model]()
+![Selecting a model](https://github.com/Bram-tenCate/Minor-datascience/blob/main/selecting%20a%20model.md)
 
 ![Configuring a model]()
 
