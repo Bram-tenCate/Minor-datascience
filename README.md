@@ -49,7 +49,7 @@ De kopjes gaan vooral over het deel lineair programmeren wat ik voor Cofano soft
 
 ![Data cleansing]()
 
-![Data preparation]
+![Data preparation]()
 
 ![Data explanition]()
 
