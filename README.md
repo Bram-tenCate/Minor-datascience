@@ -13,8 +13,6 @@ gewerkt aan het containerproject van Cofano voor 12 weken
 
 Hieronder zijn mijn bijdrages aan het Research project te vinden.
 
-De kopjes gaan vooral over het deel lineair programmeren wat ik voor Cofano software solutions heb gedaan. 
-
 ![Task definition](https://github.com/Bram-tenCate/Minor-datascience/blob/main/task-definition.md)
 
 ![Evaluation](https://github.com/Bram-tenCate/Minor-datascience/blob/main/Evaluation.md)
