@@ -25,13 +25,11 @@ Hieronder zijn mijn bijdrages aan het Research project te vinden.
 
 ![Selecting a model](https://github.com/Bram-tenCate/Minor-datascience/blob/main/selecting%20a%20model.md)
 
-![Configuring a model]()
+![Configuring a model](https://github.com/Bram-tenCate/Minor-datascience/blob/main/configuring%20a%20model.md)
 
-![training a model]()
+![training a model](https://github.com/Bram-tenCate/Minor-datascience/blob/main/Training%20a%20model.md)
 
-![Evaluating a model]()
-
-![Vizulizing the outcome of a model]()
+![Evaluating a model and vizulizing the outcome](https://github.com/Bram-tenCate/Minor-datascience/blob/main/Evaluating%20a%20model.md)
 
 ## Domain knowledge
 
