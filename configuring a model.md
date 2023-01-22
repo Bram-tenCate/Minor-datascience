@@ -56,6 +56,13 @@ Tijdens het testen van het model plaatste het model alsnog meerdere containers o
 Ik kom er tijdens het schrijven van dit portofolio achter dat er nog een paar andere kinken inzitten, ik heb geen tijd meer om dit recht te trekken. 
 Ik zal hier verder de diepte over ingaan bij het kopje "Evaluating a model". 
 
+**beginstap 
+
+Om bij beide modellen iets minder variabelen en restricties te krijgen heb ik besloten om een beginstap uit te voeren. 
+Tijdens een presentatie merkte Jeroen Vuurens namelijk op dat als er genoeg containers zijn om een compleet rijtje te vullen, dat je dat vooraf zou kunnen oden.
+Dit heb ik erin verwerkt. In de beginstap pakt hij altijd de eerste n benodigde containers om een rijtje mee te kunnen vullen. Deze vult hij van rechts naar links op de kade. 
+Over de uitvoering hiervan kan nog beter na worden gedacht. Hierover meer in het kopje "evaluation".
+
 **verschillen modellen**
 
 Ik ben begonnnen met model 2 te maken omdat ik dacht dat model 1 compacter kon. En dat het mogelijk zou moeten zijn om het aangeven van een niet lege startpositie op de kade makkelijker moest kunnen. De gedachtengang was dat als ik van LD in plaats van een binaire parameter, een integer parameter maak,
