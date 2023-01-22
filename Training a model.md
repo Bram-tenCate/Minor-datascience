@@ -21,3 +21,35 @@ Als laatste voor het trainen heb ik gekeken of de uitkomsten ook overeenkomen me
 ## Container
 
 Voor het containerproject heb ik natuurlijk geen model echt getraind, ik heb de modellen omgezet in python en dit zag er als volgt uit. 
+Ik heb hiermee veel ervaring opgedaan in verschillende LP libraries voor python. Waaronder docplex, guirobipy, en ortools.
+Model 1 heb ik uiteindelijk in guirobipy gezet. Het voordeel hiervan was dat er een gratis academische versie voor studenten van de HHS beschikbaar was. 
+Model 2 heb ik alleen werkend gekregen in docplex. Een minimalisatie binnen een restrictie is in het klassiek lineair programmeren niet normaal. 
+Het zou mogelijk moeten zijn in elke library die ik tegen ben gekomen. De foutmelding die ik hier echter over kreeg in guirobi kon ik niet omzeilen. 
+Er staat vrij weinig documentatie online, dus model 2 heb ik helaas alleen in docplex werkend kunnen krijgen.   
+
+**model 1**
+importeren van packages. 
+
+![de packages van guirobipy](https://github.com/Bram-tenCate/Minor-datascience/blob/main/packages%20guirobipy.png)
+
+definiëren sets
+![definiëren sets](https://github.com/Bram-tenCate/Minor-datascience/blob/main/setdeclaratie.png)
+
+definiëren parameters
+![dinieren parameters](https://github.com/Bram-tenCate/Minor-datascience/blob/main/parameter%20declaratie.png)
+
+Dan is het tijd om de beginstap uit te voeren. Ik heb dit misschien netter kunnen doen met minder nested for loops, maar het werkt iniedergeval.
+De rede dat ik op het laatst alle dictionairies opnieuw definieer heeft te maken met de restrictie declaratie. 
+Er zitten namelijk in een paar restricties een i+1. Als in de beginstap container 8 er bijvoorbeeld uitgehaald wordt en ingedeeld wordt. Dan zou hij bij container 7 een foutmelding geven dat er helemaal geen volgende container in de tijdsreeks bestaat.  
+
+![beginstap](https://github.com/Bram-tenCate/Minor-datascience/blob/main/beginstap%20guirobipy.png)
+
+variabele en restricties delcareren
+
+![variabele + constraint declaratie](https://github.com/Bram-tenCate/Minor-datascience/blob/main/variarble%20and%20constraint%20decl%20guirobipy.png)
+
+doelfunctie declareren en optimazation uitvoeren
+![doelfunctie](https://github.com/Bram-tenCate/Minor-datascience/blob/main/optimize%20function.png)
+
+resultaten wegschrijven in een dictionary
+![wegschrijven](https://github.com/Bram-tenCate/Minor-datascience/blob/main/oplossing%20wegschrijven%20guirobi.png)
