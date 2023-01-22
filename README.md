@@ -35,11 +35,11 @@ Hieronder zijn mijn bijdrages aan het Research project te vinden.
 
 ## Domain knowledge
 
-![Introduction in the subject field]()
+![Introduction in the subject field](https://github.com/Bram-tenCate/Minor-datascience/blob/main/introduction%20in%20the%20subjectf%20ield.md)
 
-![Literatue research]()
+![Literatue research](https://github.com/Bram-tenCate/Minor-datascience/blob/main/literature%20research.md)
 
-![Explanation of Terminoligy, jargon and definitions]()
+![Explanation of Terminoligy, jargon and definitions](https://github.com/Bram-tenCate/Minor-datascience/blob/main/Explenation%20of%20jargon.md)
 
 ## Data preprocessing
 
@@ -56,6 +56,6 @@ Hieronder zijn mijn bijdrages aan het Research project te vinden.
 
 ## Communication
 
-![presentation]()
+![presentation](https://github.com/Bram-tenCate/Minor-datascience/blob/main/presentations.md)
 
-![writing a paper]()
+![writing a paper](https://github.com/Bram-tenCate/Minor-datascience/blob/main/Writing%20a%20paper.md)
