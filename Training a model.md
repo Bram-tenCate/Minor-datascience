@@ -27,7 +27,10 @@ Model 2 heb ik alleen werkend gekregen in docplex. Een minimalisatie binnen een 
 Het zou mogelijk moeten zijn in elke library die ik tegen ben gekomen. De foutmelding die ik hier echter over kreeg in guirobi kon ik niet omzeilen. 
 Er staat vrij weinig documentatie online, dus model 2 heb ik helaas alleen in docplex werkend kunnen krijgen.   
 
+Ik zal hieronder laten zien hoe ik model 1 in python heb gezet. Model 2 is op een hele gelijke manier erin gezet, soms is de syntax net wat anders, en de beginstap is een beetje anders doordat LD niet meer binair is. Verder is het niet  zo verschillend dat het voor jullie echt interresant is.
+
 **model 1**
+
 importeren van packages. 
 
 ![de packages van guirobipy](https://github.com/Bram-tenCate/Minor-datascience/blob/main/packages%20guirobipy.png)
