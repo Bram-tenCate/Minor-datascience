@@ -59,11 +59,3 @@ Hieronder zijn mijn bijdrages aan het Research project te vinden.
 ![presentation]()
 
 ![writing a paper]()
-
-## Reflection and communication
-
-![Own contribution]()
-
-![Own learning objectives]()
-
-![Group project as a whole]()
