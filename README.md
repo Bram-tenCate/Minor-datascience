@@ -7,6 +7,8 @@ gewerkt aan het containerproject van Cofano voor 12 weken
 
 ## Datacamp courses
 
+hieronder zijn al mijn datacamp certificaten te vinden, ik heb alle aangeboden cursussen afegrond.
+
 ![hier zijn al mijn datacamp certifcaten te vinden](https://github.com/Bram-tenCate/Minor-datascience/blob/main/datacamp.md)
 
 ## Research project 
