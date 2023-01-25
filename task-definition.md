@@ -44,5 +44,10 @@ Ik vroeg mij dan af, wat zijn de beste hoofdgerechten?
 
 ## Cofano software solutions 
 
-Voor het cofano project heb ik de inleiding en doelstelling doorgelezen, en sommige zinnen verbeterd op leesbaarheid. Verder heb ik geen noemenswaardige bijdrages geleverd aan het Task definition gedeelte.
+Voor het cofano project heb ik de inleiding en doelstelling doorgelezen, en sommige zinnen verbeterd op leesbaarheid. Verder heb ik geen noemenswaardige bijdrages geleverd aan het Task definition gedeelte. Het voglgende stukje komt uit de doelstelling van de paper, waarin we de hoofdvraag definiëren. 
 
+Tijdens dit onderzoek is er focus gelegd op het plaatsen van de containers van een binnenvaartschip op één van de terminals op de haven, uitgaand van een vooraf bekende volgorde van de binnenkomende schepen en containers. 
+
+Het doel is om telkens een indeling te vinden voor de containers, zodanig dat het inladen op de zeeschepen sneller kan verlopen. 
+
+Om tot een oplossing te komen voor het probleem is er een hoofdvraag opgesteld, welke als volgt luidt: “In hoeverre zijn Reinforcement Learning en Lineair Programmeren geschikt voor het optimaliseren van het stapelingsproces in de haven?”.
