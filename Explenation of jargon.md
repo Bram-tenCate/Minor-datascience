@@ -7,5 +7,7 @@ Aan de andere kant wilde ik de presentaties kort houden.
 Omdat ik hier toch wel wat wil schrijven zal ik wat woorden uit het kopje "Introduction in the subject field" toelichten:
 
 optimalisering - zo goed of zo gunstig mogelijk maken. In de wiskunde (of iniedergeval lineair programmeren) is dit zoeken naar een bepaald minimum óf maximum.
+
 binnenvaart - vervoer van goederen op rieveren, kanalen, en meren.  
+
 overslag - het verplaatsen van goederen van het ene naar het andere vervoersmiddel.
