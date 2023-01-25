@@ -2,7 +2,7 @@
 
 ## Foodboost
 
-tijdens het foodboost hebben we gebruik gemaakt van Machine learning om ons gedefinieerde probleem op te lossen. 
+Tijdens het foodboost project hebben we gebruik gemaakt van Machine learning om ons gedefinieerde probleem op te lossen. 
 Dit was deels omdat artificial intelligience nieuw voor ons was, en we hier les in gehad hebben. 
 We probeerde de favoriete keuken van iemand te voorspellen aan de hand van recepten die iemand al aangegeven heeft lekker te vinden. 
 Daarvoor hebben we gebruikers gesmisuleerd die uit een bapaalde keuken aangeven recepten lekker te vinden, de keuken die deze persoon lekker vind wordt opgeslagen.
@@ -17,13 +17,13 @@ De agent van een reinforecement learning model maakt namelijk keuzes, in dit gev
 en zo zich zelf kan leren om naar een steeds betere oplossing te zoeken. 
 Daarnaast zit er veel ruimtes tussen onmogelijke oplosssingen, slechte oplossingen en de optimale oplossing. 
 Het reïnforcement model kan zichzelf in deze volgorde langzaam omhoog leren. Waardoor dit hiervoor geschikt is.
-Een laatste reden om voor een reinforcement learning model te kiezen is dat de haven gezien kan worden als een omgeving (enviorment). 
+Een laatste reden om voor een reinforcement learning model te kiezen is dat de haven gezien kan worden als een omgeving (enviornment). 
 Waar de agent naar kijkt om zijn beslissingen over te gaan maken. Dit alle maakt Reïnforcement learning een ideale tool om naar oplossingen voor dit probleem te gaan zoeken.
 
 
 Zoals ik hier in de eerste zin al aangeef, heb ik maar 2 weken mijzelf ingelezen in dit type modellen.
 Ik heb daarna een college van mevrouw de Smidt-Destombes begewoond over lineair programmeren. 
-Specifiek toegepast over hoe meerdere kranen in een magazijn gebruikt kunnen worden om de verplaatsing van pakketten in een magazijn te optimaliseren. 
+Specifiek ging dit over hoe het toegepast wordt om over hoe meerdere kranen in een magazijn gebruikt kunnen worden om de verplaatsing van pakketten optimaliseren. 
 Hier zaten overeenkomsten in in ons probleem. 
 Met een heel klein beetje verbeelding kan je het magazijn zien als het containerdepot, en de kranen als heftrucks.
 
