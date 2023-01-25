@@ -52,6 +52,6 @@ Hieronder zijn de kopjes van domain knowledge te vinden.
 
 ## Communication
 
-![presentation](https://github.com/Bram-tenCate/Minor-datascience/blob/main/presentations.md)
+![Presentations](https://github.com/Bram-tenCate/Minor-datascience/blob/main/presentations.md)
 
 ![writing a paper](https://github.com/Bram-tenCate/Minor-datascience/blob/main/Writing%20a%20paper.md)
