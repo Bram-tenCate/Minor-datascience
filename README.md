@@ -24,7 +24,7 @@ Hieronder zijn mijn bijdrages aan het Research project te vinden. Het is zowel e
 
 ![Conclusion](https://github.com/Bram-tenCate/Minor-datascience/blob/main/Conclusion.md)
 
-![PLanning](https://github.com/Bram-tenCate/Minor-datascience/blob/main/planning.md)
+![Planning](https://github.com/Bram-tenCate/Minor-datascience/blob/main/planning.md)
 
 ## Predictive analysis
 
