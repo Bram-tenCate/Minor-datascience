@@ -5,7 +5,7 @@ Ik heb tijdens deze minor gewerkt aan het foodboost-project voor 6 weken
 
 Daarnaast heb ik 12 weken aan het containerproject voor Cofano gewerkt.
 
-In deze portofolio heb ik de kopjes van het beoordelingsformulier staan, en zal ik per kopje benoemen wat ik ervoor gedaan tijdens de projecten. 
+In deze portofolio heb ik de kopjes van het beoordelingsformulier staan, en zal ik per kopje benoemen wat ik ervoor gedaan tijdens de projecten. Ik heb voor bijna elk kopje iets over Foodboost en iets over het containerproject geschreven. 
 
 
 ## Datacamp courses
