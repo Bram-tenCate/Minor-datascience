@@ -42,7 +42,7 @@ Voor het containerproject heb ik mij bezig gehouden met lineair programmeren. Om
 ## Domain knowledge
 
 
-![Introduction in the subject field](https://github.com/Bram-tenCate/Minor-datascience/blob/main/introduction%20in%20the%20subjectfield.md)
+![Introduction in the subject field](https://github.com/Bram-tenCate/Minor-datascience/blob/main/introduction%20in%20the%20subject%20field.md)
 
 ![Literatue research](https://github.com/Bram-tenCate/Minor-datascience/blob/main/literature%20research.md)
 
