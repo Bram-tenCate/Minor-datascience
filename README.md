@@ -10,7 +10,7 @@ In deze portofolio heb ik de kopjes van het beoordelingsformulier staan, en zal 
 
 ## Datacamp courses
 
-Hieronder zijn al mijn datacamp certificaten te vinden. Ik heb alle aangeboden cursussen afegrond.
+Hieronder zijn al mijn datacamp certificaten te vinden. Ik heb alle aangeboden cursussen afgerond.
 
 ![hier zijn al mijn datacamp certifcaten te vinden](https://github.com/Bram-tenCate/Minor-datascience/blob/main/datacamp.md)
 
