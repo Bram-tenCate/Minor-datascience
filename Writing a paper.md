@@ -8,7 +8,7 @@ geen paper
 
 zoals al eerder in dit portofolio heb ik verwezen naar de paper. 
 
-kort overzicht van mijn aandeel in de paper.
+Hier een kort overzicht van mijn aandeel in de paper:
 
 **zelf geschreven**
 
