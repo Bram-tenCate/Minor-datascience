@@ -57,4 +57,4 @@ Voor het containerproject heb ik mij bezig gehouden met lineair programmeren. Om
 
 ## Nawoord
 
-Ik zou in dit portofolio nog specifiek Karin Destombes- de Smidt nog willen bedanken. Ik heb geen idee of u dit gaat zien, maar zonder u had ik nooit zoveel geleerd over het lineair programmeren. 
+Ik zou in dit portofolio nog specifiek Karin Destombes- de Smidt nog willen bedanken. Ik heb geen idee of u dit gaat zien, maar zonder u had ik nooit zoveel geleerd over lineair programmeren. En was ik er zeer veel omslachtiger (,of zelfs géén) model uitgekomen. 
