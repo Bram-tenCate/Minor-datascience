@@ -1,19 +1,19 @@
 # Minor-datascience
-portofolio datascience van Bram ten Cate
+Portofolio datascience van Bram ten Cate
 
-gewerkt aan foodboost voor 4 weken
+gewerkt aan foodboost voor 6 weken
 
 gewerkt aan het containerproject van Cofano voor 12 weken
 
 ## Datacamp courses
 
-hieronder zijn al mijn datacamp certificaten te vinden, ik heb alle aangeboden cursussen afegrond.
+Hieronder zijn al mijn datacamp certificaten te vinden. Ik heb alle aangeboden cursussen afegrond.
 
 ![hier zijn al mijn datacamp certifcaten te vinden](https://github.com/Bram-tenCate/Minor-datascience/blob/main/datacamp.md)
 
 ## Research project 
 
-Hieronder zijn mijn bijdrages aan het Research project te vinden.
+Hieronder zijn mijn bijdrages aan het Research project te vinden. Het is zowel een mix van containerproject als foodboost. Net waar ik vind dat ik meer bijdrage per kopje tijdens de minor geleverd heb.
 
 ![Task definition](https://github.com/Bram-tenCate/Minor-datascience/blob/main/task-definition.md)
 
