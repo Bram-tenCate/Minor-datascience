@@ -6,7 +6,7 @@ geen paper
 
 ## Containerproject
 
-zoals al eerder in dit portofolio heb ik verwezen naar de paper. 
+Voor het containerproject heb ik samen met alle groepsgenoten een paper geschreven. Hier heb ik in het portofolio al een paar keer naar verwezen. 
 
 Hier een kort overzicht van mijn aandeel in de paper:
 
