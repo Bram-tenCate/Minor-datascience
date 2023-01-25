@@ -19,7 +19,7 @@ Hieronder zijn mijn bijdrages aan het Research project te vinden.
 
 ![Evaluation](https://github.com/Bram-tenCate/Minor-datascience/blob/main/Evaluation.md)
 
-![Conclusion]()
+![Conclusion](https://github.com/Bram-tenCate/Minor-datascience/blob/main/Conclusion.md)
 
 ![PLanning](https://github.com/Bram-tenCate/Minor-datascience/blob/main/planning.md)
 
