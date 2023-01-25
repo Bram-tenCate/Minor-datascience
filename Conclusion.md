@@ -33,6 +33,6 @@ De hoofdvraag tijdens het Containerproject was “In hoeverre zijn Reinforcement
 
 We zijn als groep hierop op de volgende conclusie ervoor uitgekomen:
 
-Uit de resultaten van het onderzoek naar de geschiktheid van Reinforcement learning en lineair programmeren voor het optimaliseren van het stapelingsproces in de haven is gebleken dat het RL-model consistenter is dan het huidige LP-model, echter kan er geen uitspraak worden gedaan over de bruikbaarheid in een reële situatie doordat de uitwerking op zeer kleine schaal is uitgevoerd. 
+"Uit de resultaten van het onderzoek naar de geschiktheid van Reinforcement learning en lineair programmeren voor het optimaliseren van het stapelingsproces in de haven is gebleken dat het RL-model consistenter is dan het huidige LP-model, echter kan er geen uitspraak worden gedaan over de bruikbaarheid in een reële situatie doordat de uitwerking op zeer kleine schaal is uitgevoerd." 
 
 Ik ben het hiermee eens. Het lineair programmeergedeelte waar ik mij op gefocust heb, geeft helaas in de helft van de gevallen namelijk een onjuiste oplossing terug. Met onjuist bedoel ik dat er een container zo staat, dat het andere containers blokkeert. En je deze dus weg zou moeten halen op het moment dat je de schepen in wilt gaan laden.
