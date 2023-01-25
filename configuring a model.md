@@ -2,7 +2,7 @@
 
 ## Foodboost
 
-Voor het foodbost project hebben we dus met machine learning gewerkt. Ik heb meerdere modellen bekeken waaronder multinominal naïve bayes en dicision forrest.
+Voor het foodboost project hebben we dus met machine learning gewerkt. Ik heb meerdere modellen bekeken waaronder multinominal naïve bayes en dicision forrest.
 Ik ben op een dcision forrest gekozen omdat we Ilias al gewerkt had met een dicision tree, vervolgens had Tony in week drie gevraagd waarom je dit boven een dicision forrest zou kiezen. 
 Hier hadden we niet echt een antwoord op. Het bestaat uit meerdere dicision tree's, dus zou uiteindelijk beter moeten werken. 
 Op naïve bayes ben ik gekomen door op google te zoeken naar andere modellen die als y-variabelen een discrete variabele voorspellen. 
