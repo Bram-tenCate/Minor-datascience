@@ -54,3 +54,7 @@ Voor het containerproject heb ik mij bezig gehouden met lineair programmeren. Om
 ![Presentations](https://github.com/Bram-tenCate/Minor-datascience/blob/main/presentations.md)
 
 ![writing a paper](https://github.com/Bram-tenCate/Minor-datascience/blob/main/Writing%20a%20paper.md)
+
+## Nawoord
+
+Ik zou in dit portofolio nog specifiek Karin Destombes- de Smidt nog willen bedanken. Ik heb geen idee of u dit gaat zien, maar zonder u had ik nooit zoveel geleerd over het lineair programmeren. 
