@@ -1,5 +1,5 @@
 # Minor-datascience
-Portofolio datascience van Bram ten Cate
+Portofolio datascience van Bram ten Cate(19143451)
 
 Ik heb tijdens deze minor gewerkt aan het foodboost-project voor 6 weken
 
