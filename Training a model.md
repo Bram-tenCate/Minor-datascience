@@ -18,6 +18,8 @@ Ik heb voor de train-test split 80% voor het trainen en 20% voor het testen gebr
 Als laatste voor het trainen heb ik gekeken of de uitkomsten ook overeenkomen met wat ik verwachtte dat voorspeld zou worden.
 ![training](https://github.com/Bram-tenCate/Minor-datascience/blob/main/training%20of%20the%20model4.png)
 
+Verder is het tunen van hyperparameters geen ding voor zover ik kon vinden bij het naive bayes algoritme. Er zijn een paar parameters die ingesteld kunnen worden. Een is om de alpha te smoothen, ik heb eerlijk gezegd nog steeds geen idee wat dit precies doet. De andere is om ervan uit te gaan dat je klassen die je gaat voorspellen (y-variabele) niet uniform verdeeld zijn, die van ons waren dat wel. Dus die stond al goed.   
+
 ## Container
 
 Voor het containerproject heb ik natuurlijk geen model echt getraind, ik heb de modellen omgezet in python en dit zag er als volgt uit. 
