@@ -1,4 +1,4 @@
-# Visulating and Evaluating a model
+# Evaluatizing a model and visualizing the outcome
 
 ## Foodboost
 
