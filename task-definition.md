@@ -34,9 +34,7 @@ Die aan de hand van de volgende deelvragen te beantwoorden is:
 
     2. Doormiddel van welk model kan de favoriete keuken van een gebruiker voorspeld worden?
 
-    3. Welk model voorspeld het de favoriete keuken van elke gebruiker?
-
-    4. Op basis van welke methode kunnen er passende recepten aanbevolen worden?
+    3. Op basis van welke methode kunnen er passende recepten aanbevolen worden?
     
     
 Deze onderzoeksvragen heb ik samen opgesteld met alle projectsgenoten. Mijn aandeel hierin was vooral het specifieker maken van de vragen. 
