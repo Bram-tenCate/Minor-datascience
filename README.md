@@ -45,16 +45,7 @@ Hieronder zijn mijn bijdrages aan het Research project te vinden.
 
 Ik heb van de kopjes uit het beoordelingsformulier denk ik het minste gedaan aan data preprocessing. Ik heb in de eerste 2/3 weken van foodboost wel de data zo gemaakt dat wij er mee konden werken. Ik maak hier dit onder één link hieronder weggeschreven. 
 
-![Data exploration]()
-
-![Data cleansing]()
-
-![Data preparation]()
-
-![Data explanition]()
-
-![Data visualiztion]()
-
+![Data preprocessing]()
 
 ## Communication
 
