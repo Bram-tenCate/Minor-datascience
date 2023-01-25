@@ -37,7 +37,7 @@ Voor het containerproject heb ik mij bezig gehouden met lineair programmeren. Om
 
 ![training a model](https://github.com/Bram-tenCate/Minor-datascience/blob/main/Training%20a%20model.md)
 
-![Evaluating a model and vizulizing the outcome](https://github.com/Bram-tenCate/Minor-datascience/blob/main/Evaluating%20a%20model.md)
+![Evaluating a model and visualizing the outcome](https://github.com/Bram-tenCate/Minor-datascience/blob/main/Evaluating%20a%20model.md)
 
 ## Domain knowledge
 
