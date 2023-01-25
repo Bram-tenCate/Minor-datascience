@@ -29,7 +29,7 @@ Hieronder zijn mijn bijdrages aan het Research project te vinden. Het is zowel e
 ## Predictive analysis
 
 Ik heb voor foodboost in onderstaande kopjes één machine learning model toegelicht. 
-Voor het containerproject heb ik mij bezig gehouden met lineair programmeren. Omdat "configuring a model" en "training a model", hier niet echt aan orde komt heb ik het opstellen van het model in sets, variabele, parameters, een doelfunctie en restricties onder configuring a model verwerkt. Vervolgens het zetten in de software (of de python libraries) onder training a model. Selecting en evaluating a model komen meer overeen, ookal is de invulling hiervan mischien een beetje anders. 
+Voor het containerproject heb ik mij bezig gehouden met lineair programmeren. Omdat "configuring a model" en "training a model", hier niet echt aan orde komt heb ik het opstellen van het model in sets, variabele, parameters, een doelfunctie en restricties onder configuring a model verwerkt. Vervolgens het zetten in de software (of de python libraries) onder training a model. Selecting-, en evaluating- a model komen meer overeen, ookal is de invulling hiervan mischien een beetje anders. 
 
 ![Selecting a model](https://github.com/Bram-tenCate/Minor-datascience/blob/main/selecting%20a%20model.md)
 
