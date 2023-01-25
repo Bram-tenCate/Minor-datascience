@@ -84,7 +84,7 @@ Voor mijn eigen gezondheid doe ik het alleen nu niet.
 **conclusie vergelijking modellen**
 
 Toen ik bijna een volledige studiedag gestopt had in het proberen te begrijpen van hoe ik model 2 in guirobi kon krijgen, heb ik maar besloten dat het beter zou zijn om aan model 1 door te werken.
-Ik ben ervan overtuigd dat er nog een manier gevonden kan worden om model twee zo te krijgen dat het met minder restricties dan model 1 goed zou werken. 
+Ik ben ervan overtuigd dat er nog een manier gevonden kan worden om model 2 zo te krijgen dat het met minder restricties dan model 1 goed zou werken. 
 Voor mij was het het niet waard om een duurdere solver-package te kopen, dus heb ik model 2 maar gelaten voor wat het is. 
 
 Behalve het volledig opstapelen zouden ze op een lege kade hetzelfde moeten werken. Of het volledig opstapelen een voordeel of een nadeel is, 
