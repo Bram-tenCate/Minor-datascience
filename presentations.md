@@ -11,7 +11,7 @@ Anass heeft de presentaties bijna altijd in elkaar gezet.
 
 **presentatie week 12**
 
-Tijdens de presentatie in week 12 heb ik besloten om mijn van mijn model de wiskunde door te nemen, de restricties voor het eerste model stonden er toen.
+Tijdens de presentatie in week 12 heb ik besloten om van mijn model de wiskunde door te nemen, de restricties voor het eerste model stonden er toen.
 Ik was vooraf een beetje bang dat ik iedereen kwijt zou raken, ik denk dat dit bij 80% ook gebeurd is. 
 Na afloop kwam van een ander groepje Job naar mij toe met wat vragen. Vandaar dat deze presentatie mij wel bij is gebleven, en ik hem alsnog in mijn portofolio wilde verwerken.
 
