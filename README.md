@@ -1,9 +1,12 @@
 # Minor-datascience
 Portofolio datascience van Bram ten Cate
 
-gewerkt aan foodboost voor 6 weken
+Ik heb tijdens deze minor gewerkt aan het foodboost-project voor 6 weken
 
-gewerkt aan het containerproject van Cofano voor 12 weken
+Daarnaast heb ik 12 weken aan het containerproject voor Cofano gewerkt.
+
+In deze portofolio heb ik de kopjes van het beoordelingsformulier staan, en zal ik per kopje benoemen wat ik gedaan heb aan dit kopje tijdens de projecten. 
+
 
 ## Datacamp courses
 
