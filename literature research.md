@@ -13,7 +13,8 @@ Wij zijn door gebrek aan user-data met item-based aan de slag gegaan.
 
 
 Ook hebben we een soortgelijke app gevonden waar wij inspiratie voor onze eigen app uit hebben gehaalt. 
-Deze app heet yummly. 
+Deze app heet 
+![yummly](https://www.yummly.com/)
 Ik heb hier zelf geen delen van overgenomen, wel hadden we in gedachten om voor future work het gedeelte van de allergiëen eruit over te nemen. 
 
 ## Containerproject
