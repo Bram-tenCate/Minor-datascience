@@ -6,7 +6,7 @@ vanuit voeding en diëetiek bestond er een wens om mensen gezonder te laten eten
 en daarmee niet heel gevarieëerd. Een groot deel van de klas was het hier mee eens. Dus zijn wij een applicatie gaan bouwen om mensen nieuwe gerechten aan te raden. 
 Verder geen onderzoek gedaan naar hoe groot het probleem nou eigenlijk is.
 
-## containerproject
+## Containerproject
 
 Voor het containerproject heb ik mijzelf niet bezig gehouden met de introductie. 
 Ik heb het introductie gedeelte wat Ilias voor de paper geschreven heeft doorgelezen of het klopt, en enkele zinnen aangevuld of veranderd.  
