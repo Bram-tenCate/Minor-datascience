@@ -1,7 +1,7 @@
 # Presentations
 ## Foodboost
 
-ik heb tijdens foodboost twee slides gepresenteerd tijdens de eerste interne presentatie, voor de rest had ik het aan de rest overgelaten.
+Ik heb tijdens foodboost twee slides gepresenteerd tijdens de eerste interne presentatie, voor de rest had ik het aan de rest overgelaten.
 
 ## Containerproject
 
