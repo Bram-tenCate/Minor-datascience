@@ -27,7 +27,7 @@ Hoofdvraag: Hoe kan de applicatie de dichts aansluitende hoofdgerechten aanraden
 
 Wij hebben aangenomen dat het best dichts aansluitende hoofdgerecht voor iemand een nieuw hoofdgerecht uit zijn favoriete keuken is. Daarom laten wij een gebruiker 10 gerechten liken op onze tinderachtige applicatie liken. Aan de hand van tags en ingrediënten laten wij een knn-model de favoriete keuken van iemand achterhalen. Vervolgens wordt er uit deze keuken een random gerecht gekozen.
 
-## containerproject
+## Containerproject
 
 De hoofdvraag tijdens het Containerproject was “In hoeverre zijn Reinforcement Learning en Lineair Programmeren geschikt voor het optimaliseren van het stapelingsproces in de haven?”
 
