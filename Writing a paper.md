@@ -22,7 +22,7 @@ discussie - lineair programmeren met Brian
 
 future work - lineair programmeren met Jurriaan
 
-**verbeteringen ik meer dan één alinea heb aangepast:**
+**waar ik één alinea heb aangepast:**
 
 abstract
 
