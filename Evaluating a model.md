@@ -89,7 +89,7 @@ Voor mij was het het niet waard om een duurdere solver-package te kopen, dus heb
 
 Behalve het volledig opstapelen zouden ze op een lege kade hetzelfde moeten werken. Of het volledig opstapelen een voordeel of een nadeel is, 
 is wat mij betreft nog onbepaald. 
-Model 2 werkt op een volle kade iets makkelijker omdat er alleen de waardes voor E ingevoerd moeten worden. 
+Model 2 werkt op een volle kade iets makkelijker omdat er alleen de waardes voor de variabele E ingevoerd moeten worden. 
 Model 1 vereist op een deels gevdulde kade alle informatie van de eerdere containers (de tijdsvolgorde waarop ze zijn gekomen en het schipsnummer).
 
 De stappen die ik met meer tijd nog graag aan de modellen zou willen maken zijn: 
