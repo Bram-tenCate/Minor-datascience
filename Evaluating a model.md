@@ -40,7 +40,8 @@ Ik heb het omgezet dat de grootte van het veld kan variëren, en dat de oplossin
 Helaas blijft dit stuk code hangen in de laatste regel code bij het runnen, waardoor je daarna je kernel af moet sluiten, maar je kan de resultaten zien. 
 
 ![vizualisatie code](https://github.com/Bram-tenCate/Minor-datascience/blob/main/vizualisatie%20code.png)
-na runnen levert het de volgende resultaten.
+
+Na runnen levert het de volgende resultaten.
 van 20 runs komt er een in 11 runs op een 8*4*4 veld een geldige oplossing uit. 
 In de andere 9 gevallen had hij op zijn minst 1, en maximaal 4 containers op een rare plek geplaatst. 
 Ik heb alle restricties doorlopen en met de hand uitgeschreven. Uit logisch redenderen volgt dat uit het model restrictie 4 en/of 7 overtreden, 
@@ -51,6 +52,7 @@ Het model geeft het alsnog terug als feasible oplossing. Mijn theorie is dat het
 Dit zou alsnog raar zijn omdat er wel gewoon feasible oplossingen bestaan, en de solver dus helemaal niet zou moeten denken aan relexaties. 
 
 ![geldige uitkomst](https://github.com/Bram-tenCate/Minor-datascience/blob/main/seed%2013.png)
+
 ![ongeldige uitkomst](https://github.com/Bram-tenCate/Minor-datascience/blob/main/9%20bij%204%20bij%204.png)
 
 **model 2**
