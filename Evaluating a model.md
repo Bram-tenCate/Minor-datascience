@@ -12,7 +12,7 @@ De volgende code voor de confusionmatrix is geschreven door Milan, ik heb hem pa
 
 ![confusion matrix](https://github.com/Bram-tenCate/Minor-datascience/blob/main/conusion%20matrix.png)
 
-## container project
+## Containerproject
 
 Voor het foodboost project heb ik mijn model gevalideerd op twee manieren.
 De eerste is door alle outputs te printen in python, vervolgens alles mee te tekenen op papier. 
