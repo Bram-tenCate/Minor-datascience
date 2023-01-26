@@ -20,7 +20,7 @@ Als laatste voor het trainen heb ik gekeken of de uitkomsten ook overeenkomen me
 
 Verder is het tunen van hyperparameters geen ding voor zover ik kon vinden bij het naive bayes algoritme. Er zijn een paar parameters die ingesteld kunnen worden. Een is om de alpha te smoothen, ik heb eerlijk gezegd nog steeds geen idee wat dit precies doet. De andere is om ervan uit te gaan dat je klassen die je gaat voorspellen (y-variabele) niet uniform verdeeld zijn, die van ons waren dat wel. Dus die stond al goed.   
 
-## Container
+## Containerproject
 
 Voor het containerproject heb ik natuurlijk geen model echt getraind, ik heb de modellen omgezet in python en dit zag er als volgt uit. 
 Ik heb hiermee veel ervaring opgedaan in verschillende LP libraries voor python. Waaronder docplex, guirobipy, en ortools.
